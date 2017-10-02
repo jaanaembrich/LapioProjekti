@@ -3,4 +3,3 @@ riviä
 terveisiä GitHubista
 olkaa hyvä
 rivi lisää
-jotain mitä koneella ei ole
